@@ -1,0 +1,2 @@
+result = set()
+if you use result = {}, it will be dict defaultly
